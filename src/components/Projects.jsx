@@ -11,7 +11,7 @@ const Projects = () => {
         {/* Authentication App */}
         <motion.div whileHover={{ y: -6 }} className="card flex flex-col h-full overflow-hidden">
           <div className="h-40 w-full rounded-lg overflow-hidden bg-gradient-to-br from-brand/20 to-brand/5 flex items-center justify-center">
-            <img src="/src/assets/auth.jpg" alt="Authentication App" className="w-full h-full object-cover" />
+            <img src="/auth.jpg" alt="Authentication App" className="w-full h-full object-cover" />
           </div>
           <h3 className="mt-4 font-semibold text-lg">Authentication App</h3>
           <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 flex-grow">
@@ -31,7 +31,7 @@ const Projects = () => {
         {/* Movie App */}
         <motion.div whileHover={{ y: -6 }} className="card flex flex-col h-full overflow-hidden">
           <div className="h-40 w-full rounded-lg overflow-hidden bg-gradient-to-br from-brand/20 to-brand/5 flex items-center justify-center">
-            <img src="/src/assets/movie.jpg" alt="Movie App" className="w-full h-full object-cover" />
+            <img src="/movie.jpg" alt="Movie App" className="w-full h-full object-cover" />
           </div>
           <h3 className="mt-4 font-semibold text-lg">Movie App</h3>
           <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 flex-grow">
@@ -51,7 +51,7 @@ const Projects = () => {
         {/* Student Filter */}
         <motion.div whileHover={{ y: -6 }} className="card flex flex-col h-full overflow-hidden">
           <div className="h-40 w-full rounded-lg overflow-hidden bg-gradient-to-br from-brand/20 to-brand/5 flex items-center justify-center">
-            <img src="/src/assets/stuent.jpg" alt="Student Filter" className="w-full h-full object-cover" />
+            <img src="/stuent.jpg" alt="Student Filter" className="w-full h-full object-cover" />
           </div>
           <h3 className="mt-4 font-semibold text-lg">Student Filter</h3>
           <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 flex-grow">
@@ -71,7 +71,7 @@ const Projects = () => {
         {/* Todo List */}
         <motion.div whileHover={{ y: -6 }} className="card flex flex-col h-full overflow-hidden">
           <div className="h-40 w-full rounded-lg overflow-hidden bg-gradient-to-br from-brand/20 to-brand/5 flex items-center justify-center">
-            <img src="/src/assets/todo.jpg" alt="Todo List" className="w-full h-full object-cover" />
+            <img src="/todo.jpg" alt="Todo List" className="w-full h-full object-cover" />
           </div>
           <h3 className="mt-4 font-semibold text-lg">Todo List</h3>
           <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 flex-grow">
@@ -91,7 +91,7 @@ const Projects = () => {
         {/* Shopping App */}
         <motion.div whileHover={{ y: -6 }} className="card flex flex-col h-full overflow-hidden">
           <div className="h-40 w-full rounded-lg overflow-hidden bg-gradient-to-br from-brand/20 to-brand/5 flex items-center justify-center">
-            <img src="/src/assets/shoping.jpg" alt="Shopping App" className="w-full h-full object-cover" />
+            <img src="/shoping.jpg" alt="Shopping App" className="w-full h-full object-cover" />
           </div>
           <h3 className="mt-4 font-semibold text-lg">Shopping App</h3>
           <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 flex-grow">
